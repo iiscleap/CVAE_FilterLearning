@@ -2,9 +2,9 @@
 Modulation filter learning using CVAE
 
 ******************************************************************
-Purvi Agrawal and Sriram Ganapathy
-Learning and Extraction of Acoustic Patterns (LEAP) Lab
-Indian Institute of Science, Bangalore, India
+Purvi Agrawal and Sriram Ganapathy, 
+Learning and Extraction of Acoustic Patterns (LEAP) Lab, 
+Indian Institute of Science, Bangalore, India, 
 Email: {purvia, sriramg}@iisc.ac.in
 ******************************************************************
 
