@@ -1,15 +1,15 @@
 # CVAE_FilterLearning
 Modulation filter learning using CVAE
 
-%******************************************************************
-% Purvi Agrawal and Sriram Ganapathy
-% Learning and Extraction of Acoustic Patterns (LEAP) Lab
-% Indian Institute of Science, Bangalore, India
-% {purvia, sriramg}@iisc.ac.in
-%******************************************************************
+******************************************************************
+Purvi Agrawal and Sriram Ganapathy
+Learning and Extraction of Acoustic Patterns (LEAP) Lab
+Indian Institute of Science, Bangalore, India
+Email: {purvia, sriramg}@iisc.ac.in
+******************************************************************
 
-% 29-Apr-2019
-% See the file LICENSE for the licence associated with this software.
+29-Apr-2019
+See the file LICENSE for the licence associated with this software.
 *******************************************************************
 
 Implementation of the paper:
